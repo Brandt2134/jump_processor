@@ -2,7 +2,7 @@
 
 A digital processor written in VHDL that simulates the jump mechanic of an endless-runner game, built for a Digital Systems course. Given a button input and an 8-bit jump power value, the processor computes a character's vertical position each clock cycle and outputs signals indicating whether the character is running or jumping.
 
-Full design walkthrough (HLSM, FSM, and datapath diagrams with explanation) is included in [`design_report.pdf`](./IECE231_Project2.pdf).
+Full design walkthrough (HLSM, FSM, and datapath diagrams with explanation) is included in [`IECE231_Project2.pdf`](./IECE231_Project2.pdf).
 
 ## Design approach
 
